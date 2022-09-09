@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [HelmDa-systems](https://www.helmda.space/)
         <!-- https://www.udemy.com/certificate/UC-527eff01-84ae-4c55-bad2-e2874269ec30/ -->
-- <img src="https://media.istockphoto.com/vectors/approved-certificate-icon-vector-id503586890?k=20&m=503586890&s=170667a&w=0&h=77M1R_f14sBX0Jw0csim2FPsNFNNJ4cjhZdhKzPsh88=" alt="figma" width="40" height="40"/>
+- <img src="https://media.istockphoto.com/vectors/approved-certificate-icon-vector-id503586890?k=20&m=503586890&s=170667a&w=0&h=77M1R_f14sBX0Jw0csim2FPsNFNNJ4cjhZdhKzPsh88=" alt="figma" width="15" height="15"/>
 - 🌱 I’m currently learning **React, Redux**
 
 - 💬 Ask me about **React, Java-Script**
