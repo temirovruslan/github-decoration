@@ -1,4 +1,3 @@
-
 [![MasterHead](https://user-images.githubusercontent.com/98250795/186842060-81ca56bd-e856-48d0-aff4-87eb7e3b5fb7.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">A possinate Frontend Developer from Estonia</h3>
@@ -9,8 +8,10 @@
 
 - 🔭 I’m currently working at [HelmDa-systems](https://www.helmda.space/)
         
-- <img src="https://media.istockphoto.com/vectors/approved-certificate-icon-vector-id503586890?k=20&m=503586890&s=170667a&w=0&h=77M1R_f14sBX0Jw0csim2FPsNFNNJ4cjhZdhKzPsh88=" alt="figma" width="20" height="20"/>  Certificate of udemy "Full course from zero to advanced Java-Script and React + Redux"(https://www.udemy.com/certificate/UC-527eff01-84ae-4c55-bad2-e2874269ec30/)
-- 
+- <img src="https://media.istockphoto.com/vectors/approved-certificate-icon-vector-id503586890?k=20&m=503586890&s=170667a&w=0&h=77M1R_f14sBX0Jw0csim2FPsNFNNJ4cjhZdhKzPsh88=" alt="figma" width="20" height="20"/>  [Certificate of udemy "Full course from zero to advanced Java-Script and React + Redux](https://www.udemy.com/certificate/UC-527eff01-84ae-4c55-bad2-e2874269ec30/)
+
+- <img src="https://media.istockphoto.com/vectors/approved-certificate-icon-vector-id503586890?k=20&m=503586890&s=170667a&w=0&h=77M1R_f14sBX0Jw0csim2FPsNFNNJ4cjhZdhKzPsh88=" alt="figma" width="20" height="20"/>  Certificate of udemy "Full course from zero to advanced Java-Script and React + Redux"
+
 - 🌱 I’m currently learning **React, Redux**
 
 - 💬 Ask me about **React, Java-Script**
@@ -32,6 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovruslan&show_icons=true&locale=en" alt="temirovruslan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temirovruslan&" alt="temirovruslan" /></p>
-
-
 
