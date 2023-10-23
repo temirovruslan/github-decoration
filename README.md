@@ -1,12 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/98250795/186842060-81ca56bd-e856-48d0-aff4-87eb7e3b5fb7.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">A possinate Frontend Developer from Estonia</h3>
+<h3 align="center">A Frontend Developer from Estonia</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-- 🔭 I’m currently working at [HelmDa-systems](https://www.helmda.space/)
+- 🔭 I’m currently working at [Phare-technologies]((https://www.phare-ts.com/))
         
 - <img src="https://media.istockphoto.com/vectors/approved-certificate-icon-vector-id503586890?k=20&m=503586890&s=170667a&w=0&h=77M1R_f14sBX0Jw0csim2FPsNFNNJ4cjhZdhKzPsh88=" alt="figma" width="20" height="20"/>  Certificate of Udemy [Full course from zero to advanced Java-Script and React + Redux](https://www.udemy.com/certificate/UC-527eff01-84ae-4c55-bad2-e2874269ec30/)
 
